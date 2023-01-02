@@ -1,0 +1,30 @@
+.main-header{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #222;
+	width: 100%;
+	height: 170px;
+}
+
+.container-flex{
+}
+.img-logo{
+	border: 1px solid black;
+	width: 180px;
+	height: 150px;
+}
+.container-btn{
+	display: flex;
+	justify-content: center;
+	margin: 20px 0;
+}
+.btnwsp{
+	height: 110px;
+	width: 320px;
+}
+
+.btnwsp:hover{
+	height: 120px;
+	width: 330px;
+}
